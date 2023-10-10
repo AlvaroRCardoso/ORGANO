@@ -1,3 +1,4 @@
-# ORGANO
+# Organo
+Esse foi um projeto que desenvolvi enquanto acompanhava o curso de Next.js da Alura.
 
-Veja: organo-one-lovat.vercel.app
+## Veja: https://organo-one-lovat.vercel.app/
